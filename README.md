@@ -157,36 +157,6 @@ a brief explanation of why you want to join the Discord, and how you heard about
 
 Send an email to `security [at] torquem.ch`.
 
-Team
-=======
-
-Core contributors:
-
-* Alexey Akhunov ([@realLedgerwatch](https://twitter.com/realLedgerwatch))
-
-* Alex Sharov ([AskAlexSharov](https://twitter.com/AskAlexSharov))
-
-* Andrew Ashikhmin ([yperbasis](https://github.com/yperbasis))
-
-* Boris Petrov ([b00ris](https://github.com/b00ris))
-
-* Eugene Danilenko ([JekaMas](https://github.com/JekaMas))
-
-* Igor Mandrigin ([@mandrigin](https://twitter.com/mandrigin))
-
-* Giulio Rebuffo
-
-* Thomas Jay Rush ([@tjayrush](https://twitter.com/tjayrush))
-
-Thanks to:
-
-* All contributors of Turbo-Geth
-
-* All contributors of Go-Ethereum
-
-* Our special respect and graditude is to the core team of [Go-Ethereum](https://github.com/ethereum/go-ethereum). Keep up the great job!
-
-Happy testing! 🥤
 
 Known issues
 ============
