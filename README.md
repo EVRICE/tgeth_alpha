@@ -10,7 +10,6 @@ Table of contents
    * [Usage](#usage)
    * [Key features](#key-features)
    * [Getting in touch](#getting-in-touch)
-   * [Team](#team)
    * [Known issues](#known-issues)
    * [GoDoc](https://godoc.org/github.com/EVRICE/tgeth_alpha)
 <!--te-->
