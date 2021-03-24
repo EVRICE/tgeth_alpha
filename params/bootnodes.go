@@ -19,12 +19,12 @@ package params
 import "github.com/EVRICE/tgeth_alpha/common"
 
 // MainnetBootnodes are the enode URLs of the P2P bootstrap nodes running on
-// the main Ethereum network.
+// the main Evrice network.
 var MainnetBootnodes = []string{
 	// Evrice Foundation Go Bootnodes
-	"enode://341778aa933d3fbab0bb42f41f945fb33f7233640f6c1c0b289b70cd2c0b00dfa164a59db611818fce571920e78094a4fa7f1a9523b9189c740e5c6f4599be97@46.254.20.163:30553",  //Evrice
-	"enode://8b8586095253483153c78c20670fa91eb26aa0c09e041234d3451079873470ad27c2aa5ff3ebdf2894be7b1edd307162083479925caea6619f4fde1cb3d8586d@185.22.232.218:30303",  //Guzelka
-	"enode://9c38f714943b0c313a0cda2d7624176935b933f5191f68b99c84e16a61791f6bbb739b507237a503dd1b636c92699ff1cbf9f668d16374747e7ca12693af911e@178.57.222.100:30553",  //rezerv
+	"enode://",  //Evrice
+	"enode://",  //Guzelka
+	"enode://",  //rezerv
 }
 
 // RopstenBootnodes are the enode URLs of the P2P bootstrap nodes running on the
